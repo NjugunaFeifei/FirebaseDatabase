@@ -1,0 +1,4 @@
+#Thu Apr 13 13:58:59 EAT 2023
+base.0=/home/user/AndroidStudioProjects/AfternoonFIrebaseDatabaseApp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
